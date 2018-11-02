@@ -1,1 +1,1 @@
-# tutorial2
+# Repository for the GitHub tutorial
